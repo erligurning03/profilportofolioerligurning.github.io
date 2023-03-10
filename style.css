@@ -1,0 +1,14 @@
+.jumbotron {
+    /* padding:  2rem 1rem; ini untuk kasih jarak dari jumbotron 1 kenavbar*/
+    padding-top: 5rem;
+    background-color:#add8e6;
+}
+
+#projects{
+    /*jika dia adalah id maka deklarasinya seperti ini*/
+    background-color:#add8e6;
+}
+
+section{
+    padding-top: 5rem;
+}
